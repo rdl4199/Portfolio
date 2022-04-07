@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+}
+
+#rochester {
+    background: url("../media/288HighFallsDistrict.jpg");
+    min-height: 100%;
+    min-width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#headshot{
+    border-radius: 50%;
+    border-color : black;
+    border-width: 5000px;
+}
